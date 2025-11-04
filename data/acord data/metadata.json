@@ -1,0 +1,21 @@
+{
+  "dataset": "ACORD (Atticus Clause Retrieval Dataset)",
+  "source": "theatticusproject/acord (local files)",
+  "conversion_date": "2025-10-30",
+  "min_relevance": 3,
+  "augmentation_factor": 3,
+  "splits": {
+    "train": 2652,
+    "validation": 471,
+    "test": 391
+  },
+  "clause_types": {
+    "Limitation of Liability": 1644,
+    "Governing Law": 90,
+    "Term": 123,
+    "Indemnification": 513,
+    "Restrictive Covenants": 189,
+    "Affirmative Covenants": 48,
+    "IP Ownership/License": 45
+  }
+}
