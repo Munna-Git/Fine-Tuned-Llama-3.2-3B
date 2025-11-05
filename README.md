@@ -42,9 +42,6 @@ This project fine-tunes Meta's Llama 3.2 3B model for legal clause extraction us
 | Confidentiality | 72.3% | 37% |
 | Governing Law | 71.9% | 35% |
 
----
-
-Here’s a clean, professional **Markdown version** of your tech stack section — perfect for a **README.md** file:
 
 ---
 
@@ -372,7 +369,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 **Author:** Your Name  
 **Email:** munna88mn@gmail.com  
-**LinkedIn:** [Your LinkedIn](linkedin.com/in/munna-a4ab07253)  
+**LinkedIn:** [LinkedIn](linkedin.com/in/munna-a4ab07253)  
 **GitHub:** [@Munna-Git](https://github.com/Munna-Git)
 
 ---
@@ -393,12 +390,8 @@ If you use this project, please cite:
 
 ---
 
-## ⭐ Star History
+## **⭐ Star History**
 
 If you find this project useful, please consider giving it a star!
 
 ---
-
-**Last Updated:** November 2, 2025  
-**Status:** ✅ Production-Ready  
-**Demo:** [Live on HuggingFace Spaces](https://huggingface.co/spaces/your-username/legal-clause-extractor)
