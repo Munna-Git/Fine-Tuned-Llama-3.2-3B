@@ -1,3 +1,5 @@
 challenges/
+# Environment Variables
 .env
-.env/
+.env.local
+.env.*.local
