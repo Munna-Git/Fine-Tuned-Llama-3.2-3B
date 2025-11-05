@@ -1,1 +1,3 @@
-challenges\
+challenges/
+.env
+.env/
